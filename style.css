@@ -89,7 +89,6 @@ img{
     margin-bottom: 2em;
     border-radius: 1em;
     text-indent: 20px;
-    
 }
 
 .card h3{
@@ -101,6 +100,7 @@ img{
 
 .card div{
     padding:2em;
+    
 }
 
 .card:nth-child(even) img{
@@ -151,7 +151,7 @@ img{
 }
 
 .galeria:hover div:not(:hover){
-    filter: saturate(10%) blur(1px) drop-shadow(16px 16px 16px rgb(179, 238, 167));
+    filter: saturate(10%) blur(1px) drop-shadow(16px 16px 16px #b3eea7);
     
     
 
